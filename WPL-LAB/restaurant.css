@@ -1,0 +1,49 @@
+
+			.container{
+				width: 100%;
+				height: 100%;
+				margin-top: 5%;
+				text-align: center;
+			}
+
+			h1{
+				font-family: agency fb;
+				letter-spacing: 3px;
+			}
+
+			h3{
+				font-family: calibri;
+				text-transform: uppercase;
+			}
+
+			table{
+				text-align: left;
+				width: 50%;
+			}
+
+			th{
+				text-transform: uppercase;
+				font-size: 1vw;
+			}
+
+			form input, select{
+				border: none;
+				border-bottom: 1px solid #afafaf;
+				width: 75%;
+				padding: 1%;
+			}
+
+			form input[type=submit]{
+				text-decoration: none;
+				padding: 3%;
+				float: right;
+				background-color: #eaeaea;
+				margin-left: 3%;
+				color: #000;
+				width: 30%;
+			}
+
+			input[type=submit]:hover{
+				background-color: #0a0a0a;
+				color: #fff;
+			}
